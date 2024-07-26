@@ -1,6 +1,6 @@
-# Automated Certificate Sender for UAE Hackathon
+# Automated Certificate Sender
 
-This repository contains a Google Apps Script designed to automate the process of sending personalized participation certificates to participants of the UAE Hackathon. The script reads participant information from a Google Sheets spreadsheet, customizes a PowerPoint certificate template, converts it to a PDF, and sends it as an email attachment.
+This repository contains a Google Apps Script designed to automate the process of sending personalized participation certificates to participants. The script reads participant information from a Google Sheets spreadsheet, customizes a PowerPoint certificate template, converts it to a PDF, and sends it as an email attachment.
 
 ## Features
 
